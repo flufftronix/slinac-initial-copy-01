@@ -1,6 +1,7 @@
-title: Stackbit Vanilla Theme
-baseURL: /
+---
+title: Saving Lives Is Not A Crime - Support Safe Consumption Sites!
+baseURL: "/"
 params:
   none: ''
 disableKinds:
-  - RSS
+- RSS
