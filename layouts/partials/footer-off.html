@@ -3,7 +3,7 @@
     <div class="copyright">{{ partial "markdownify-block" .Site.Data.footer.content }}</div>
     <nav>
         {{ range $link_item := .Site.Data.footer.links }}
-            {{ $link_item.text }}
+            <a class="subtle-link" href="{{ $link_item.url }}" {{ if $link_item.new_window }}target="_blank"{{ end }}>{{ $link_item.text }}</a>
         {{ end }}
     </nav>
 </footer>

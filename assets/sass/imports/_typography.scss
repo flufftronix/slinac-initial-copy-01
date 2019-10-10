@@ -52,8 +52,11 @@ h5 {
 }
 
 h6 {
-    font-size: 0.8rem;
-    color: $blue;
+    font-size: 1.2rem;
+    color: $black;
+    font-family: $firasans;
+    font-weight: light;
+    line-height: 1.8rem;
 }
 
 p {

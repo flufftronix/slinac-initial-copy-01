@@ -11,7 +11,7 @@ sections:
 
     ![](/images/safehouse-rally1.jpg)
 
-    _On October 2nd, a federal judge ruled that the operation of Safehouse does not violate federal law. On October 3rd, Senator Anthony Williams released a memo stating his plans to introduce a bill that would prohibit the operation of Safe Consumption Spaces (SCS) in Pennsylvania. We need you to take action to show your support for Safehouse and urge lawmakers to oppose Sen. Williams' plans!_
+    ###### *On October 2nd, a federal judge ruled that the operation of [Safehouse](https://www.safehousephilly.org/) does not violate federal law. On October 3rd, Senator Anthony Williams [released a memo](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress) stating his plans to introduce a bill that would prohibit the operation of Safe Consumption Spaces (SCS) in Pennsylvania. We need you to take action to show your support for Safehouse and urge lawmakers to oppose Sen. Williams' plans!*
 
     <h2 style="text-align:center">ACTION STEPS</h3>
 
