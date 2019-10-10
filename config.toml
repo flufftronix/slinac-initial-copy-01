@@ -1,0 +1,19 @@
+[params]
+  description = "Tutorials and snippets for programming languages, frameworks, tools, etc."
+  images = ["images/safehouse-rally.jpg"]
+
+  [params.facebook]
+    appid = "xxx"
+
+  [params.twitter]
+    username = "xxx"
+
+  [params.logo]
+    url = "images/logo.svg"
+    width = 127
+    height = 40
+
+  [params.image]
+    url = "images/safehouse-rally1.jpg"
+    width = 800
+    height = 600

@@ -57,7 +57,7 @@ Thirty years of evidence has demonstrated that overdose prevention sites decreas
 
 * Researchers in Sydney, Australia monitored drug trafficking and the number of people using drugs around an OPS for 10 years and did not detect an increase in crime or the number of drug users in the area. (14)
 
- <iframe src="https://medium.com/media/4b5019a75e358bab6fe8c1d26ac38be3" frameborder=0></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gIyBMt2BEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## *Works Cited*
 
