@@ -1,5 +1,6 @@
-content: '&copy; All rights reserved.'
+---
+content: "&copy; All rights reserved."
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: 'A project by SOL Collective, Act Up!, Friends of Safehouse and '
+  url: ''
+  new_window: true
