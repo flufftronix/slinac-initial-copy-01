@@ -134,4 +134,39 @@ sections:
       <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[4]='PHONE';ftypes[4]='phone';fnames[3]='ADDRESS';ftypes[3]='address';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
       <!--End mc_embed_signup-->
 
+  - type: postlist
+    template: postlist
+    title: Recent Posts
+    section_id: posts
+    component: postlist.html
+  - type: textimageblock
+    template: textimageblock
+    title: A Cat
+    section_id: cat
+    component: text_image_block.html
+    text: >-
+      Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
+      amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus
+      aliquet placerat commodo.
+
+      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
+      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
+      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
+      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+
+      Id massa aliquet arcu accumsan lorem amet accumsan.
+
+
+      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
+      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
+      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
+      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
+    image: images/logo.svg
+menu:
+  main:
+    name: Home
+    weight: 1
+layout: home
 ---
