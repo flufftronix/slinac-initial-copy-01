@@ -1,6 +1,7 @@
 <!-- Header -->
 <header id='header' class='header container'>
-    <a href='{{ "/" | relURL }}' class='logo'><img src="/images/logo.svg"></a>
+    <img src="/images/logo.svg" style="margin: 1rem 0 1rem 0">
+
     {{ if and .Site.Menus.main .Site.Data.header.has_nav }}
     <nav>
         {{ range $item := .Site.Menus.main }}

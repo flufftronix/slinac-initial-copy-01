@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:300,400,400i,500,700');
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One:300,400,400i,500,700');
 
 html,
 body {
     font-size: $tiny;
-    font-family: $roboto;
+    font-family: $firasans;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
@@ -20,6 +21,7 @@ h6 {
     font-weight: $bold;
     letter-spacing: 0.02em;
     line-height: 1.2em;
+    font-family: $alfaslabone;
 }
 
 h1 {
