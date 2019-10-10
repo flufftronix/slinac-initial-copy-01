@@ -3,4 +3,4 @@ content: "&copy; All rights reserved."
 links:
 - text: 'A project by SOL Collective, Act Up!, Friends of Safehouse and '
   url: ''
-  new_window: true
+  new_window: false
