@@ -7,41 +7,63 @@ sections:
   section_id: intro
   component: content_block.html
   content: |-
-    # Take Action to Support SCS in Pennsylavania!
+    # Support Safe Consumption Sites in Pennsylavania
 
     ![](/images/safehouse-rally1.jpg)
 
     _On October 2nd, a federal judge ruled that the operation of Safehouse does not violate federal law. On October 3rd, Senator Anthony Williams released a memo stating his plans to introduce a bill that would prohibit the operation of Safe Consumption Spaces (SCS) in Pennsylvania. We need you to take action to show your support for Safehouse and urge lawmakers to oppose Sen. Williams' plans!_
 
-    ### ACTION STEPS
+    <h2 style="text-align:center">ACTION STEPS</h3>
+
 
     #### 1: Call Sen. Anthony Wiliams
 
-    Call <a href="tel:+17177875970">(717) 787-5970</a>, and ask for Kyle Miller (<a href="mailto:kyle.miller@pasenate.com">email</a> also works but phone is preferable!)
+    Call [(717) 787-5970](tel:+17177875970"), and ask for Kyle Miller ((email)[mailto:kyle.miller@pasenate.com]  also works but phone is preferable!)
 
     ##### Sample Call:
 
-    <blockquote><p>Hello. My name is ______ (name) from _____ (home town). I am calling today because Pennsylvania is in the midst of a public health crisis and we need evidence-based solutions like safe consumption sites.  We lose twelve people a day to drug overdoses in Pennsylvania. \[Share personal story if you want\].</p> <p>Our current solutions are not doing enough and we need evidence-based solutions like safe consumption sites to save lives. Senator Williams’ attempt to prohibit these facilities in Pennsylvania will harm Pennsylvanians struggling with substance use disorder. A federal judge has determined that these sites are legal. Research has also demonstrated that safe consumption sites decrease overdose rates, decrease public injection, and decrease the number of discarded syringes in the vicinity of the site. I urge you to not block this necessary public health intervention.</p></blockquote>
+    >Hello. My name is ____ (name) from ___(home town). I am calling today because Pennsylvania is in the midst of a drug overdose epidemic. [Share personal story if you want].
+
+    >Our current approaches are falling short. On average, across our state, one human life is lost to overdose every 120 minutes.
+
+    >Communities across Pennsylvania need the help safe consumption sites provide. Research has demonstrated that after these facilities are implemented, communities see decreases in overdose rates, public injection, and discarded syringes.
+
+    >Senator Williams’ plan to prohibit these facilities is dangerous and irresponsible. A federal judge has determined that these sites are legal. I urge Senator Williams not to stand in the way of this necessary public health intervention. Saving lives is not a crime.
 
     #### 2: Call Your State Senator
 
-    Call <a href="tel:+17177875970">(717) 787-5970</a>, and ask for Kyle Miller (<a href="mailto:kyle.miller@pasenate.com">email</a> also works but phone is preferable!)
-
     ##### Find your Senator:
 
-    <ol> <li>Go to https://www.legis.state.pa.us/CFDOCS/LEGIS/HOME/FINDYOURLEGISLATOR/</li> <li>Type in your address</li> <li>Click the name of your local representative (next to PA senator)</li> <li>Scroll to find the number for their office</li> <li>Call your representative</li> </ol>
+    1. Visit PA's <a href="https://www.legis.state.pa.us/CFDOCS/LEGIS/HOME/FINDYOURLEGISLATOR/" target="_blank">*Find Your Legislator*</a> site.
+    2. Type in your address
+    3. Click the name of your local representative (next to PA senator)
+    4. Scroll to find the number for their office
+    5. Call your representative
 
     ##### Sample Call:
 
-    <blockquote><p>Hello. My name is ______ (name) from _____ (home town). I am calling today because Pennsylvania is in the midst of a public health crisis and we need evidence-based solutions like safe consumption sites.  We lose twelve people a day to drug overdoses in Pennsylvania. \[Share personal story if you want\].</p> <p>Our current solutions are not doing enough and we need evidence-based solutions like safe consumption sites to save lives. Senator Williams’ attempt to prohibit these facilities in Pennsylvania will harm Pennsylvanians struggling with substance use disorder. A federal judge has determined that these sites are legal. Research has also demonstrated that safe consumption sites decrease overdose rates, decrease public injection, and decrease the number of discarded syringes in the vicinity of the site. I urge you to not block this necessary public health intervention.</p></blockquote>
+    >*Hello. My name is ____ (name) from ___(home town). I am calling today because Pennsylvania is in the midst of a drug overdose crisis, and safe consumption sites are needed in communities across Pennsylvania.  
+
+    >Our current approaches are falling short. On average across our state, one person dies every 120 minutes from drug overdose. [Share personal story if you want].
+
+    >Research has demonstrated that after these facilities are opened, communities see decreases in overdose rates, public injection, and discarded syringes. On October 2nd a federal judge, the Hon. Gerald Austin McHugh, Jr. ruled safe consumption sites do not violate federal law.
+
+    >In response to this ruling, Senator Anythony H Williams' is attempting to specifically deny Pennsylvania communities the benefits these facilities will provide. I urge you to refuse any support Sen Williams' bill, and further to sign this letter endorsing safe consumption sites as a necessary, medical, fact-based intervention for fighting the drug overdose epidemic. Saving lives is not a crime.*    
 
     #### 3: Sign onto our letter endorsing safe consumption sites as an individual or group
 
-    <blockquote><p>Pennsylvania is in the midst of a public health crisis with twelve people dying every day from drug-related overdoses. All of the individuals and organizations here are unified in our belief that safe consumption sites (SCS), medical facilities where people can use drugs under medical supervision, are a necessary tool to reduce overdose deaths.</p>
-    <p>SCS are a public health intervention to reduce overdose deaths. In the 30 years of SCS operating around the globe, they have demonstrated significant benefit. Research demonstrates that these sites decrease overdose rates by up to 60%, decrease public injection, and decrease the number of discarded syringes in the vicinity of the site. On October 2, 2019 a federal judge Gerald A. McHugh ruled in favor of Safehouse, a Philadelphia nonprofit hoping to open a safe consumption sites.</p>
-    <p>U.S. District Judge McHugh understood that Safehouse and other safe consumption sites exist to prevent overdoses and help individuals struggling with substance use disorder. “I cannot conclude that Safehouse has, as a significant purpose, the objective of facilitating drug use,” he wrote in his opinion. “The ultimate goal of Safehouse’s proposed operation is to reduce drug use, not facilitate it. Safehouse plans to make a place available for the purposes of reducing the harm of drug use, administering medical care, encouraging drug treatment, and connecting participants with social services.”</p>
-    <p>Senator Anthony Williams released a memo to his colleagues stating that he was planning to introduce legislation making SCS illegal in Pennsylvania. He stated, “Let us not forget that heroin remains an illegal drug and a deadly killer of Pennsylvanians across the commonwealth. In the midst of an epidemic, we should not be providing spaces for users to continue to use without requiring treatment.”</p>
-    <p>We disagree with Sen Williams’ logic. Fentanyl is killing our loved ones. We want sites like Safehouse where thy will be reversed. Too many people have died from preventable deaths. We need you to support people struggling with substance use disorders. Do not support harmful policies like the bill Sen Williams plans to introduce.</p></blockquote>
+    >Pennsylvania is in the midst of a drug overdose epidemic. On average, one person dies every 120 minutes due to drug overdoses in our state state. Our current approaches are falling short. As individuals and organizations, we see safe consumption sites (SCS) as a vital, evidence-based tool in reducing drug overdose deaths.
+
+    >Over 30 years, across dozens of countries and over 100 sites, research has demonstrated the benefits communities home to SCS have seen. After these facilities are opened, their neighborhoods see decreases of up to 60% in overdose rates, decreases in public injection, and decreases in discarded syringes. These communities also do not see increases in crime or active drug user populations.
+
+    >In October of 2018 a nonprofit group called Safehouse announced plans to open a SCS in Philadelphia. And in February of 2019, a Trump-appointed attorney general sued Safehouse to block such a site from opening. A case in federal court followed and on October 2nd the Hon. Gerald Austin McHugh, Jr. ruled that SCS do not violate federal law. “I cannot conclude that Safehouse has, as a significant purpose, the objective of facilitating drug use,” he wrote in his opinion. “The ultimate goal of Safehouse’s proposed operation is to reduce drug use, not facilitate it. Safehouse plans to make a place available for the purposes of reducing the harm of drug use, administering medical care, encouraging drug treatment, and connecting participants with social services.”
+
+    >Days later, Pennsylvania State Senator Anthony Williams announced plans to propose banning SCS in Pennsylvania, stating, “Let us not forget that heroin remains an illegal drug and a deadly killer of Pennsylvanians across the commonwealth. In the midst of an epidemic, we should not be providing spaces for users to continue to use without requiring treatment.”
+
+    >We find Sen Williams’ logic misinformed, dangerous and irresponsible. Overdoses from fentanyl are robbing us of our loved ones. Lack of immediate overdose reversal is killing Pennsylvanians.  We need sites like Safehouse where overdoses can be immediately  reversed. Too many people have died from preventable deaths. We need you to support people struggling with substance use disorders. Do not support harmful policies like the bill Sen Williams plans to introduce. Saving lives is not a crime.
+
+
+
     <!-- Begin Mailchimp Signup Form --> <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> <style type="text/css">
     \#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
     /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.

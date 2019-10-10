@@ -425,10 +425,14 @@ h6 {
   font-weight: 500;
   letter-spacing: 0.02em;
   line-height: 1.2em;
-  font-family: "Alfa Slab One", serif; }
+  font-family: "Alfa Slab One", serif;
+  color: #61439A; }
 
 h1 {
-  font-size: 2.5rem; }
+  font-size: 2.7rem;
+  color: #000;
+  text-transform: uppercase;
+  line-height: 1em; }
 
 h2 {
   font-size: 2rem; }
@@ -437,13 +441,16 @@ h3 {
   font-size: 1.5rem; }
 
 h4 {
-  font-size: 1.2rem; }
+  font-size: 1.2rem;
+  color: #2F6EA1; }
 
 h5 {
-  font-size: 1rem; }
+  font-size: 1rem;
+  color: #2F6EA1; }
 
 h6 {
-  font-size: 0.8rem; }
+  font-size: 0.8rem;
+  color: #2F6EA1; }
 
 p {
   font-size: 1rem;
@@ -510,7 +517,7 @@ button,
     .text-link:not(.logo):not(.nav-link):after {
       content: '';
       position: absolute;
-      background: #4285F4;
+      background: #2F6EA1;
       height: 4px;
       width: 100%;
       bottom: 0;
@@ -574,7 +581,7 @@ button,
       content: ' ';
       height: 2px;
       width: 100%;
-      background: #4285F4;
+      background: #2F6EA1;
       border: none;
       position: absolute;
       left: 0;
