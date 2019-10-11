@@ -5,3 +5,11 @@ params:
   none: ''
 disableKinds:
 - RSS
+
+params:
+  description: Text about my cool site
+  images:
+  - "images/safehouse-rally1.jpg"
+  title: Saving Lives Is Not A Crime - Support Safe Consumption Sites!
+taxonomies:
+  series:
