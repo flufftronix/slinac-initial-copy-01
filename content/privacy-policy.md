@@ -1,6 +1,6 @@
 ---
-title: Just a Generic Page
-subtitle: Just a generic subtitle for the page
+title: Privacy Policy
+subtitle: 
 layout: page
 
 ---
