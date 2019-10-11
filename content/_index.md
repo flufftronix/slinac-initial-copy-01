@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Take Action to Support Safe Consumption Sites in PA! 
 sections:
 - type: contentblock
   template: contentblock
