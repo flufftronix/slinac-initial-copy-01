@@ -1,7 +1,12 @@
 ---
-title: The Research on Supervised Consumption Sites
+title: The Research
 subtitle: Thirty years of evidence-based intervention
 layout: page
+menus:
+  main:
+    title: The Research
+    weight: 4
+template: page
 
 ---
 

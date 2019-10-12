@@ -29,7 +29,7 @@ fields:
   name: disableKinds
   label: Disable Kinds
   description: Enable disabling of all pages of the specified Kinds.
-  hidden: true
+  hidden: false
   config:
     source:
       type: custom
