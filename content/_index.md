@@ -1,5 +1,6 @@
 ---
-title: Home
+title: Support SCS in PA!
+linktitle: Home
 sections:
   - section_id: hero
     component: "content_block.html"

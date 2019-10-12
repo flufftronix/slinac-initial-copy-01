@@ -1,12 +1,14 @@
 ---
-template: page
-title: UI Kit
-subtitle: Vanilla styleguide.
+title: Elements
+subtitle: Mardown thingies
+layout: page
 menus:
   main:
     title: Elements
-    weight: 3
+    weight: 7
+template: page
 ---
+
 <section class="content">
     <h1>This is an H1</h1>
     <h2>This is an H2</h2>
