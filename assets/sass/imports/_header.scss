@@ -30,6 +30,9 @@
     }
 
     .nav-link {
+      @media screen and (max-width: $tablet) {
+          flex: 1 0;
+      }
         position: relative;
         display: flex;
         flex-direction: column;
