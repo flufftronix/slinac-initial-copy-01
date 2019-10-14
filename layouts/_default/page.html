@@ -24,9 +24,16 @@
         </header>
         {{ if .Params.toc }}
           <aside class="toc">
-            {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+            {{ .TableOfContents | safeHTML }}
           </aside>
         {{ end }}
+
+        {{ if .Params.summary }}
+          <div class="summary">
+            {{ .Params.summary | markdownify }}
+          </div>
+        {{end}}
+
         {{ .Content }}
     </section>
 {{ end }}

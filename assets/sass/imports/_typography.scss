@@ -23,6 +23,7 @@ h6 {
     line-height: 1.2em;
     font-family: $alfaslabone;
     color: $purple;
+    margin-bottom: 1rem;
 }
 
 h1 {
@@ -40,6 +41,9 @@ h2 {
 
 h3 {
     font-size: 1.5rem;
+    font-family: $firasans;
+    font-weight: 700 !important;
+    font-style: italic;
 }
 
 h4 {
@@ -64,8 +68,14 @@ h6 {
   font-size: 2rem;
   text-align: center;
   font-family: $alfaslabone;
-  margin-bottom: 2rem;
+  margin: 2rem 0;
   color: $purple;
+}
+
+.summary {
+  font-size: 1.2rem;
+  line-height: 1.6rem;
+  font-weight: lighter;
 }
 
 p {
@@ -101,4 +111,9 @@ strong {
 
 pre {
     font-size: 0.8rem;
+}
+
+blockquote p {
+  font-style: normal;
+  font-size: 1.2rem !important;
 }

@@ -9,11 +9,9 @@
       font-size: .8rem;
       width: 10rem;
   }
-  li li li {
-    display: none;
-  }
   .sectionheader {
     font-size: 1.3rem;
+    margin: 1rem 0;
   }
   ul, li {
     padding-left: 0;
@@ -22,5 +20,6 @@
   a {
     font-weight: 400 !important;
     text-transform: uppercase;
+    text-decoration: none;
   }
 }

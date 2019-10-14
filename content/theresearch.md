@@ -1,95 +1,81 @@
 ---
-title: The Research
-subtitle: Thirty years of evidence-based intervention
+title: The Research on Safe Consumption Spaces
+subtitle:
 layout: page
 menus:
   main:
     title: The Research
     weight: 4
 template: page
+image: https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg
+image_description: H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)
+summary: Supervised consumption sites (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site. <br><br>Thirty years of evidence show safe consumption spaces have decreased rates of overdose fatality, public injection, discarded needles, and contractions of HIV and Hepatitis C. Increases in crime have not been found, but increased participation in drug and alcohol treatment programs has. Below is a summary of the research on the above topics.<br><br>
 
 ---
 
-![H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)*](https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg)
+## Overdose Deaths
 
-Supervised consumption sites (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site.
+* Overdose prevention sites decrease overdose deaths [^1]
+* In the thirty years of SCS existing, no overdose death has been recorded in an SCS [^1]
+* In Vancouver, Canada an SCS decreased overdose deaths by 35% around the site [^2]
+* In Sydney, Australia the number of ambulance calls for overdoses decreased by 65% after an SCS opened [^3]
 
-Thirty years of evidence has demonstrated that overdose prevention sites decrease overdose fatalities, public injection, discarded needles, HIV and Hepatitis C. They also increase the amount of people in drug and alcohol treatment, and will not increase crime. Below is a summary of the research on these topics.
+## Neighborhood Health
 
-![Sydney Medically Supervised Injecting Centre, Sydney Australia (Nigel Brunsdon, Filter Mag)](https://cdn-images-1.medium.com/max/2000/1*kIbtlSgd6KMLgNEOm4t3FA.jpeg)
+* Overdose prevention sites decrease public injection and the number of needles in the neighborhood of an SCS [^1]
+* The amount of discarded syringes and people injecting in public decreased by 50% in Vancouver [^4]
+* Residents and business owners in Sydney saw a decrease in public injection and the number of needles in their neighborhood after an SCS opened [^5]
+* Drug users report that they used in public and discarded syringes less after an SCS opened [^6]
 
-## ***Overdose Deaths***
 
-* Overdose prevention sites decrease overdose deaths (1)
+## Infectious Disease
 
-* In the thirty years of SCS existing, no overdose death has been recorded in an SCS (1)
+* Overdose prevention sites decrease the risk of transmitting blood born illnesses like HIV and Hepatitis C [^7]
+* They decrease skin and soft tissue infections like abscesses, and cellulitis [^8] [^9]
 
-* In Vancouver, Canada an SCS decreased overdose deaths by 35% around the site (2)
+## Treatment and Recovery
 
-* In Sydney, Australia the number of ambulance calls for overdoses decreased by 65% after an SCS opened (3)
+* Various studies have shown that SCS increase the amount of users in detoxification and treatment programs because of effective case management and linkage to drug treatment programs [^10] [^11] [^12]
+* Over three years, an OPS in Canada helped get 67% of individuals using the site get into drug treatment services; 23% stopped injecting drugs [^12]
 
-![SisterSpace, Vancouver B.C. Canada (Ben Nelms/CBC)](https://cdn-images-1.medium.com/max/2000/1*afu0uALCoD_R84Y7nNZggw.jpeg)
+## Crime
 
-## ***Neighborhood Health***
+* All evidence suggests an OPS will not increase crime, drug trafficking, and the number of users in the neighborhood of the site [^1] [^13] [^14]
+* No increase in crime and drug trafficking occurred after an OPS opened in Vancouver, Canada [^13]
+* Researchers in Sydney, Australia monitored drug trafficking and the number of people using drugs around an OPS for 10 years and did not detect an increase in crime or the number of drug users in the area. [^14]
 
-* Overdose prevention sites decrease public injection and the number of needles in the neighborhood of an SCS (1)
+{{< youtube 7gIyBMt2BEk >}}<br><br>
 
-* The amount of discarded syringes and people injecting in public decreased by 50% in Vancouver (4)
+[^1]: Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: what has been demonstrated? A systematic literature review. *Drug and alcohol dependence*, *145*, 48–68.
 
-* Residents and business owners in Sydney saw a decrease in public injection and the number of needles in their neighborhood after an SCS opened (5)
+[^2]: Marshall, B. D., Milloy, M. J., Wood, E., Montaner, J. S., & Kerr, T. (2011). Reduction in overdose mortality after the opening of North America’s first medically supervised safer injecting facility: a retrospective population-based study. *The Lancet*, *377*(9775), 1429–1437.
 
-* Drug users report that they used in public and discarded syringes less after an SCS opened (6)
+[^3]: Salmon, A. M., Van Beek, I., Amin, J., Kaldor, J., & Maher, L. (2010). The impact of a supervised injecting facility on ambulance call‐outs in Sydney, Australia. *Addiction*, *105*(4), 676–683.
 
-![](https://cdn-images-1.medium.com/max/2000/1*nNBtJ4MNy1D912RHNZQ6Bg.jpeg)
+[^4]: Wood, E., Kerr, T., Small, W., Li, K., Marsh, D. C., Montaner, J. S., & Tyndall, M. W. (2004). Changes in public order after the opening of a medically supervised safer injecting facility for illicit injection drug users. *Cmaj*, *171*(7), 731–734.
 
-## *Infectious Disease*
+[^5]: Salmon, A. M., Thein, H. H., Kimber, J., Kaldor, J. M., & Maher, L. (2007). Five years on: What are the community perceptions of drug-related public amenity following the establishment of the Sydney Medically Supervised Injecting Centre?. *International Journal of Drug Policy*, *18*(1), 46–53.
 
-* Overdose prevention sites decrease the risk of transmitting blood born illnesses like HIV and Hepatitis C (7)
+[^6]: Petrar, S., Kerr, T., Tyndall, M. W., Zhang, R., Montaner, J. S., & Wood, E. (2007). Injection drug users’ perceptions regarding use of a medically supervised safer injecting facility. *Addictive behaviors*, *32*(5), 1088–1093.
 
-* They decrease skin and soft tissue infections like abscesses, and cellulitis (8,9)
+[^7]: Pinkerton, S. D. (2011). How many HIV infections are prevented by Vancouver Canada’s supervised injection facility?. *International Journal of Drug Policy*, *22*(3), 179–183.
 
-## *Treatment and Recovery*
+[^8]: Small, W., Wood, E., Lloyd-Smith, E., Tyndall, M., & Kerr, T. (2008). Accessing care for injection-related infections through a medically supervised injecting facility: a qualitative study. *Drug and Alcohol Dependence*, *98*(1–2), 159–162.
 
-* Various studies have shown that SCS increase the amount of users in detoxification and treatment programs because of effective case management and linkage to drug treatment programs (10,11,12)
+[^9]: Lloyd-Smith, E., Wood, E., Zhang, R., Tyndall, M. W., Sheps, S., Montaner, J. S., & Kerr, T. (2010). Determinants of hospitalization for a cutaneous injection-related infection among injection drug users: a cohort study. *BMC Public Health*, *10*(1), 327.
 
-* Over three years, an OPS in Canada helped get 67% of individuals using the site get into drug treatment services; 23% stopped injecting drugs 12
+[^10]: Tyndall, M. W., Kerr, T., Zhang, R., King, E., Montaner, J. G., & Wood, E. (2006). Attendance, drug use patterns, and referrals made from North America’s first supervised injection facility. *Drug and alcohol dependence*, *83*(3), 193–198.
 
-## *Crime*
+[^11]: Wood, E., Tyndall, M. W., Zhang, R., Montaner, J. S., & Kerr, T. (2007). Rate of detoxification service use and its impact among a cohort of supervised injecting facility users. *Addiction*, *102*(6), 916–919.
 
-* All evidence suggests an OPS will not increase crime, drug trafficking, and the number of users in the neighborhood of the site (1, 13, 14)
+[^12]: DeBeck, K., Kerr, T., Bird, L., Zhang, R., Marsh, D., Tyndall, M., … & Wood, E. (2011). Injection drug use cessation and use of North America’s first medically supervised safer injecting facility. *Drug and alcohol dependence*, *113*(2–3), 172–176.
 
-* No increase in crime and drug trafficking occurred after an OPS opened in Vancouver, Canada (13)
+[^13]: Wood, E., Tyndall, M. W., Lai, C., Montaner, J. S., & Kerr, T. (2006). Impact of a medically supervised safer injecting facility on drug dealing and other drug-related crime. *Substance abuse treatment, prevention, and policy*, *1*(1), 13.
 
-* Researchers in Sydney, Australia monitored drug trafficking and the number of people using drugs around an OPS for 10 years and did not detect an increase in crime or the number of drug users in the area. (14)
+[^14]: Donnelly, N., & Mahoney, N. (2013). Trends in property and illicit drug crime around the Medically Supervised Injecting Centre in Kings Cross: 2012 update. *NSW Bureau of Crime Statistics and Research*, *90*, 1–10.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7gIyBMt2BEk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ ![Sydney Medically Supervised Injecting Centre, Sydney Australia (Nigel Brunsdon, Filter Mag)](https://cdn-images-1.medium.com/max/2000/1*kIbtlSgd6KMLgNEOm4t3FA.jpeg)
 
-## *Works Cited*
+ ![SisterSpace, Vancouver B.C. Canada (Ben Nelms/CBC)](https://cdn-images-1.medium.com/max/2000/1*afu0uALCoD_R84Y7nNZggw.jpeg)
 
- 1. Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: what has been demonstrated? A systematic literature review. *Drug and alcohol dependence*, *145*, 48–68.
-
- 2. Marshall, B. D., Milloy, M. J., Wood, E., Montaner, J. S., & Kerr, T. (2011). Reduction in overdose mortality after the opening of North America’s first medically supervised safer injecting facility: a retrospective population-based study. *The Lancet*, *377*(9775), 1429–1437.
-
- 3. Salmon, A. M., Van Beek, I., Amin, J., Kaldor, J., & Maher, L. (2010). The impact of a supervised injecting facility on ambulance call‐outs in Sydney, Australia. *Addiction*, *105*(4), 676–683.
-
- 4. Wood, E., Kerr, T., Small, W., Li, K., Marsh, D. C., Montaner, J. S., & Tyndall, M. W. (2004). Changes in public order after the opening of a medically supervised safer injecting facility for illicit injection drug users. *Cmaj*, *171*(7), 731–734.
-
- 5. Salmon, A. M., Thein, H. H., Kimber, J., Kaldor, J. M., & Maher, L. (2007). Five years on: What are the community perceptions of drug-related public amenity following the establishment of the Sydney Medically Supervised Injecting Centre?. *International Journal of Drug Policy*, *18*(1), 46–53.
-
- 6. Petrar, S., Kerr, T., Tyndall, M. W., Zhang, R., Montaner, J. S., & Wood, E. (2007). Injection drug users’ perceptions regarding use of a medically supervised safer injecting facility. *Addictive behaviors*, *32*(5), 1088–1093.
-
- 7. Pinkerton, S. D. (2011). How many HIV infections are prevented by Vancouver Canada’s supervised injection facility?. *International Journal of Drug Policy*, *22*(3), 179–183.
-
- 8. Small, W., Wood, E., Lloyd-Smith, E., Tyndall, M., & Kerr, T. (2008). Accessing care for injection-related infections through a medically supervised injecting facility: a qualitative study. *Drug and Alcohol Dependence*, *98*(1–2), 159–162.
-
- 9. Lloyd-Smith, E., Wood, E., Zhang, R., Tyndall, M. W., Sheps, S., Montaner, J. S., & Kerr, T. (2010). Determinants of hospitalization for a cutaneous injection-related infection among injection drug users: a cohort study. *BMC Public Health*, *10*(1), 327.
-
- 10. Tyndall, M. W., Kerr, T., Zhang, R., King, E., Montaner, J. G., & Wood, E. (2006). Attendance, drug use patterns, and referrals made from North America’s first supervised injection facility. *Drug and alcohol dependence*, *83*(3), 193–198.
-
- 11. Wood, E., Tyndall, M. W., Zhang, R., Montaner, J. S., & Kerr, T. (2007). Rate of detoxification service use and its impact among a cohort of supervised injecting facility users. *Addiction*, *102*(6), 916–919.
-
- 12. DeBeck, K., Kerr, T., Bird, L., Zhang, R., Marsh, D., Tyndall, M., … & Wood, E. (2011). Injection drug use cessation and use of North America’s first medically supervised safer injecting facility. *Drug and alcohol dependence*, *113*(2–3), 172–176.
-
- 13. Wood, E., Tyndall, M. W., Lai, C., Montaner, J. S., & Kerr, T. (2006). Impact of a medically supervised safer injecting facility on drug dealing and other drug-related crime. *Substance abuse treatment, prevention, and policy*, *1*(1), 13.
-
- 14. Donnelly, N., & Mahoney, N. (2013). Trends in property and illicit drug crime around the Medically Supervised Injecting Centre in Kings Cross: 2012 update. *NSW Bureau of Crime Statistics and Research*, *90*, 1–10.
+ ![](https://cdn-images-1.medium.com/max/2000/1*nNBtJ4MNy1D912RHNZQ6Bg.jpeg)
