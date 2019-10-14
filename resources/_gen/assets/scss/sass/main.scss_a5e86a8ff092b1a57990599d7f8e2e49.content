@@ -430,10 +430,11 @@ h6 {
   color: #61439A; }
 
 h1 {
-  font-size: 2.7rem;
+  font-size: 2.3rem;
   color: #000;
   text-transform: uppercase;
-  line-height: 1em; }
+  line-height: 1em;
+  display: flex; }
 
 h2 {
   font-size: 2rem; }
@@ -615,7 +616,9 @@ button,
         margin: 0 auto 2rem;
         width: 50%;
         height: auto;
-        min-height: auto; } }
+        min-height: auto;
+        border-radius: 0;
+        float: right; } }
   .hero h1, .hero h2, .hero h3, .hero h4, .hero h5, .hero h6 {
     font-weight: 300; }
   .hero .copy {
@@ -716,7 +719,12 @@ body.has-theme-bar .wrapper {
   border: 2px solid gray;
   padding: 0 1rem;
   position: sticky;
-  float: right; }
+  float: right;
+  margin: 0 0 1rem 1rem; }
+  @media screen and (max-width: 768px) {
+    .toc {
+      font-size: 1.2rem;
+      width: 10rem; } }
 
 .toc li li li {
   display: none; }

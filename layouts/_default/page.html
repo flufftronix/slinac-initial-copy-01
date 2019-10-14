@@ -1,19 +1,32 @@
 {{ define "content" }}
+
+{{ $image := .Param "image"}}
+{{ $image := (trim $image "/") | absURL }}
+
     <!-- Main -->
     <section class="page">
         <header class="hero">
             <div class="copy">
-              {{ if .Params.toc }}
-                <aside class="toc">
-                  {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
-                </aside>
+
+              {{ if .Params.image }}
+                <div class="header_image">
+                  <img src="{{ $image }}" alt="{{ .Description }}">
+                </div>
               {{ end }}
+
+
                 <h1>{{ .Title }}</h1>
                 {{ if .Params.subtitle }}
                 <h3>{{ .Params.subtitle | safeHTML }}</h3>
                 {{ end }}
+
             </div>
         </header>
+        {{ if .Params.toc }}
+          <aside class="toc">
+            {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+          </aside>
+        {{ end }}
         {{ .Content }}
     </section>
 {{ end }}

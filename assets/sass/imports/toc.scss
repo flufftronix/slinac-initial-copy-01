@@ -4,6 +4,11 @@
   padding: 0 1rem;
   position: sticky;
   float: right;
+  margin: 0 0 1rem 1rem;
+  @media screen and (max-width: $tablet) {
+      font-size: 1.2rem;
+      width: 10rem;
+  }
 }
 
 .toc li li li {

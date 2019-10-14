@@ -9,15 +9,17 @@ menus:
     weight: 1
 template: page
 toc: yes
+image: /images/safehouse-rally1.jpg
+image_description: Safe Consumption Supporters rally outside federal court in Philadelphia
 ---
 
-*On October 2nd, a federal judge ruled in favor of safe consumptions spaces. On October 3rd, Senator Anthony Williams [released a memo](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress) stating his plans to introduce a bill that would prohibit the operation of Safe Consumption Spaces (SCS) in Pennsylvania. We need you to take action to show your support for Safehouse and urge lawmakers to oppose Sen. Williams' plans!*
+*On October 2nd, a judge ruled against the federal government's attempts to block nonprofit group [Safehouse's](http://safehousephilly.org) from opening Safe Consumptions Spaces (SCS) in Philadelphia. The following day, a Pennsylvania State Senator [published plans](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress)  to place a statewide ban on SCS. This is unacceptable--take action now to show your support for safe consumption! Saving lives is not a crime!*
 
-![](/images/safehouse-rally1.jpg)
+![Safe Consumption Supporters rally outside federal court in Philadelphia](/images/safehouse-rally1.jpg)
 
 ACTION STEPS
 
-#### 1: Contact Sen. Anthony Wiliams
+#### 1: Contact Sen. Anthony Williams
 
 Call [(717) 787-5970](tel:+17177875970"), and speak with Sen. Williams' staff member Kyle Miller (if you're unable to call, Kyle can also be reached [via email](mailto:kyle.miller@pasenate.com)).
 
@@ -53,15 +55,15 @@ Call [(717) 787-5970](tel:+17177875970"), and speak with Sen. Williams' staff me
 
 #### 3: Sign on
 
->Pennsylvania is in the midst of a drug overdose epidemic. On average, one person dies every 120 minutes due to drug overdoses in our state state. Our current approaches are falling short. As individuals and organizations, we see safe consumption spaces (SCS) as a vital, evidence-based tool in reducing drug overdose deaths.
+>Pennsylvania is in the midst of a drug overdose epidemic. On average, one person dies every 120 minutes due to drug overdoses in PA. Our current approaches are falling short. As individuals and organizations, we see safe consumption spaces (SCS) as a vital, evidence-based tool in reducing drug overdose deaths.
 
->Over 30 years, across dozens of countries and over 100 spaces, research has demonstrated the benefits communities home to SCS have seen. After these facilities are opened, their neighborhoods see decreases of up to 60% in overdose rates, decreases in public injection, and decreases in discarded syringes. These communities also do not see increases in crime or active drug user populations.
+>Over 30 years, a dozen countries and over 100 spaces, research has demonstrated the benefits for communities home to SCS. After these sites are opened, their neighborhoods see decreases of up to 60% in overdose rates, decreases in public injection, and decreases in discarded syringes. These areas also do not see increases in crime or active drug user populations.
 
 >In October of 2018 a nonprofit group called Safehouse announced plans to open a SCS in Philadelphia. And in February of 2019, a Trump-appointed attorney general sued Safehouse to block such a space from opening. A case in federal court followed and on October 2nd the Hon. Gerald Austin McHugh, Jr. ruled that SCS do not violate federal law. “I cannot conclude that Safehouse has, as a significant purpose, the objective of facilitating drug use,” he wrote in his opinion. “The ultimate goal of Safehouse’s proposed operation is to reduce drug use, not facilitate it. Safehouse plans to make a place available for the purposes of reducing the harm of drug use, administering medical care, encouraging drug treatment, and connecting participants with social services.”
 
 >Days later, Pennsylvania State Senator Anthony Williams announced plans to propose banning SCS in Pennsylvania, stating, “Let us not forget that heroin remains an illegal drug and a deadly killer of Pennsylvanians across the commonwealth. In the midst of an epidemic, we should not be providing spaces for users to continue to use without requiring treatment.”
 
->We find Sen Williams’ logic misinformed, dangerous and irresponsible. Overdoses from fentanyl are robbing us of our loved ones. Lack of immediate overdose reversal is killing Pennsylvanians.  We need spaces like Safehouse where overdoses can be immediately  reversed. Too many people have died from preventable deaths. We need you to support people struggling with substance use disorders. Do not support harmful policies like the bill Sen Williams plans to introduce. Saving lives is not a crime.
+>We find Sen Williams’ logic misinformed, dangerous and irresponsible. Overdoses from fentanyl are robbing us of our loved ones. Too many people have died from preventable deaths, and will continue to die without spaces where drug users will be cared for during their times of highest risk. I oppose harmful policies which seek to block safe consumption spaces from communities who need them. Saving lives is not a crime.
 
 
 
