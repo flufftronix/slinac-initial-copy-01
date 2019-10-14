@@ -73,7 +73,7 @@ blockquote {
 
     .inline-image {
         float: left;
-        max-width: calc(50% - 1rem);
+        max-width: 100%;
         margin: 1rem 1.5rem 1rem 0;
 
         @media screen and (max-width: $mobile) {
@@ -91,10 +91,10 @@ blockquote {
             width: 100%;
         }
     }
+}
 
-    img {
-        max-width: 100%;
-    }
+img {
+    max-width: 100%;
 }
 
 iframe {

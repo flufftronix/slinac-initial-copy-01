@@ -1,0 +1,24 @@
+.toc {
+  width: 20rem;
+  border: 2px solid gray;
+  padding: 0 1rem;
+  position: sticky;
+  float: right;
+}
+
+.toc li li li {
+  display: none;
+}
+
+.toc ul {
+  padding-left: 0;
+}
+
+.toc li, .toc ul {
+  list-style: none;
+}
+
+.toc a {
+  font-weight: 400 !important;
+  text-transform: uppercase;
+}

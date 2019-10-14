@@ -12,7 +12,7 @@ template: page
 
 ![H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)*](https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg)
 
-Supervised consumption sites (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 30 different countries and there have been no deaths on site.
+Supervised consumption sites (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site.
 
 Thirty years of evidence has demonstrated that overdose prevention sites decrease overdose fatalities, public injection, discarded needles, HIV and Hepatitis C. They also increase the amount of people in drug and alcohol treatment, and will not increase crime. Below is a summary of the research on these topics.
 

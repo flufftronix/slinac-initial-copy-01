@@ -370,7 +370,7 @@ blockquote {
   margin: 0 0 1rem 0; }
   .content .inline-image {
     float: left;
-    max-width: calc(50% - 1rem);
+    max-width: 100%;
     margin: 1rem 1.5rem 1rem 0; }
     @media screen and (max-width: 480px) {
       .content .inline-image {
@@ -384,8 +384,9 @@ blockquote {
     @media screen and (max-width: 480px) {
       .content .block-image {
         width: 100%; } }
-  .content img {
-    max-width: 100%; }
+
+img {
+  max-width: 100%; }
 
 iframe {
   display: block;
@@ -708,3 +709,24 @@ body.has-theme-bar .theme-bar .theme-bar-button:after {
 
 body.has-theme-bar .wrapper {
   padding-top: 60px; }
+
+/*shit I added*/
+.toc {
+  width: 20rem;
+  border: 2px solid gray;
+  padding: 0 1rem;
+  position: sticky;
+  float: right; }
+
+.toc li li li {
+  display: none; }
+
+.toc ul {
+  padding-left: 0; }
+
+.toc li, .toc ul {
+  list-style: none; }
+
+.toc a {
+  font-weight: 400 !important;
+  text-transform: uppercase; }

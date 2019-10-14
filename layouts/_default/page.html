@@ -3,6 +3,11 @@
     <section class="page">
         <header class="hero">
             <div class="copy">
+              {{ if .Params.toc }}
+                <aside class="toc">
+                  {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
+                </aside>
+              {{ end }}
                 <h1>{{ .Title }}</h1>
                 {{ if .Params.subtitle }}
                 <h3>{{ .Params.subtitle | safeHTML }}</h3>
