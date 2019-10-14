@@ -15,9 +15,7 @@ image_description: Safe Consumption Supporters rally outside federal court in Ph
 
 *On October 2nd, a judge ruled against the federal government's attempts to block nonprofit group [Safehouse's](http://safehousephilly.org) from opening Safe Consumptions Spaces (SCS) in Philadelphia. The following day, a Pennsylvania State Senator [published plans](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress)  to place a statewide ban on SCS. This is unacceptable--take action now to show your support for safe consumption! Saving lives is not a crime!*
 
-![Safe Consumption Supporters rally outside federal court in Philadelphia](/images/safehouse-rally1.jpg)
-
-ACTION STEPS
+<div class="sectionheader">ACTION STEPS</div>
 
 #### 1: Contact Sen. Anthony Williams
 
