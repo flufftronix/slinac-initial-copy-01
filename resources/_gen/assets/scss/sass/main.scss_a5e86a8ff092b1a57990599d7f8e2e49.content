@@ -624,15 +624,13 @@ button,
       flex-direction: column;
       text-align: center; } }
   .hero img {
-    min-height: 100%;
+    width: 100%;
     margin: 0 0 1.5rem 0;
     border-radius: 0; }
     @media screen and (max-width: 768px) {
       .hero img {
         margin: 0 auto 2rem;
         width: 100%;
-        height: auto;
-        min-height: auto;
         border-radius: 0; } }
   .hero h1, .hero h2, .hero h3, .hero h4, .hero h5, .hero h6 {
     font-weight: 300; }
