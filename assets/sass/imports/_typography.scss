@@ -31,7 +31,7 @@ h1 {
     text-transform: uppercase;
     line-height: 1em;
     display: flex;
-    @media screen and (max-width: $tablet) { font-size: 3rem; text-align: center; }
+    @media screen and (max-width: $tablet) { font-size: 2rem; text-align: center; }
 }
 
 h2 {
