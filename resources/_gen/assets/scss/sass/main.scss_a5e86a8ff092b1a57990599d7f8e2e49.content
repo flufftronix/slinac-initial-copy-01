@@ -584,7 +584,9 @@ button,
       .header nav {
         width: 100%;
         justify-content: space-between;
-        flex-wrap: wrap; } }
+        flex-wrap: wrap;
+        margin: 0;
+        padding: 0; } }
   .header .nav-link {
     position: relative;
     display: flex;
@@ -736,7 +738,7 @@ body.has-theme-bar .wrapper {
   margin: 0 0 1rem 1rem; }
   @media screen and (max-width: 768px) {
     .toc {
-      font-size: 1.2rem;
+      font-size: 1rem;
       width: 10rem; } }
 
 .toc li li li {
