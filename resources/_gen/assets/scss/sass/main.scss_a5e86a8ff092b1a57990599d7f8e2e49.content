@@ -468,7 +468,7 @@ h6 {
   font-size: 2rem;
   text-align: center;
   font-family: "Alfa Slab One", serif;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   color: #61439A; }
 
 p {
@@ -736,18 +736,15 @@ body.has-theme-bar .wrapper {
   margin: 0 0 1rem 1rem; }
   @media screen and (max-width: 768px) {
     .toc {
-      font-size: 1rem;
+      font-size: .8rem;
       width: 10rem; } }
-
-.toc li li li {
-  display: none; }
-
-.toc ul {
-  padding-left: 0; }
-
-.toc li, .toc ul {
-  list-style: none; }
-
-.toc a {
-  font-weight: 400 !important;
-  text-transform: uppercase; }
+  .toc li li li {
+    display: none; }
+  .toc .sectionheader {
+    font-size: 1.3rem; }
+  .toc ul, .toc li {
+    padding-left: 0;
+    list-style: none; }
+  .toc a {
+    font-weight: 400 !important;
+    text-transform: uppercase; }

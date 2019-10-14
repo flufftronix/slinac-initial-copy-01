@@ -15,7 +15,7 @@ image_description: Safe Consumption Supporters rally outside federal court in Ph
 
 *On October 2nd, a judge ruled against the federal government's attempts to block nonprofit group [Safehouse's](http://safehousephilly.org) from opening Safe Consumptions Spaces (SCS) in Philadelphia. The following day, a Pennsylvania State Senator [published plans](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress)  to place a statewide ban on SCS. This is unacceptable--take action now to show your support for safe consumption! Saving lives is not a crime!*
 
-<div class="sectionheader">ACTION STEPS</div>
+##### <div class="sectionheader">ACTION STEPS</div>
 
 #### 1: Contact Sen. Anthony Williams
 
@@ -51,7 +51,7 @@ Call [(717) 787-5970](tel:+17177875970"), and speak with Sen. Williams' staff me
 
 >In response to this ruling, Senator Anthony H Williams' is attempting to specifically deny Pennsylvania communities the benefits these facilities will provide. I urge you to refuse any support Sen Williams' bill, and further to sign this letter endorsing safe consumption spaces as a necessary, medical, fact-based intervention for fighting the drug overdose epidemic. Saving lives is not a crime.*    
 
-#### 3: Sign on
+#### 3: Sign on to Support SCS!
 
 >Pennsylvania is in the midst of a drug overdose epidemic. On average, one person dies every 120 minutes due to drug overdoses in PA. Our current approaches are falling short. As individuals and organizations, we see safe consumption spaces (SCS) as a vital, evidence-based tool in reducing drug overdose deaths.
 

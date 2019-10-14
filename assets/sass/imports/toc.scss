@@ -6,24 +6,21 @@
   float: right;
   margin: 0 0 1rem 1rem;
   @media screen and (max-width: $tablet) {
-      font-size: 1rem;
+      font-size: .8rem;
       width: 10rem;
   }
-}
-
-.toc li li li {
-  display: none;
-}
-
-.toc ul {
-  padding-left: 0;
-}
-
-.toc li, .toc ul {
-  list-style: none;
-}
-
-.toc a {
-  font-weight: 400 !important;
-  text-transform: uppercase;
+  li li li {
+    display: none;
+  }
+  .sectionheader {
+    font-size: 1.3rem;
+  }
+  ul, li {
+    padding-left: 0;
+    list-style: none;
+  }
+  a {
+    font-weight: 400 !important;
+    text-transform: uppercase;
+  }
 }
