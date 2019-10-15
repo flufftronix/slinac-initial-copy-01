@@ -8,7 +8,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
-    @media screen and (max-width: $tablet) { font-size: ($tiny * 1.2); }
+    @media screen and (max-width: $tablet) { font-size: ($tiny * .9); }
 }
 
 h1,
@@ -27,23 +27,28 @@ h6 {
 }
 
 h1 {
-    font-size: 2.7rem;
     color: $black;
+    font-size: 2rem;
+    line-height: 3rem;
     text-transform: uppercase;
-    line-height: 1em;
-    display: flex;
-    @media screen and (max-width: $tablet) { font-size: 2rem; text-align: center; }
+    @media screen and (max-width: $tablet) {
+      font-size: 1.8rem;
+      text-align: center;
+    }
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     font-family: $firasans;
     font-weight: 700 !important;
     font-style: italic;
+    @media screen and (max-width: $tablet) {
+      font-size: 1.2rem;
+    }
 }
 
 h4 {
@@ -73,9 +78,13 @@ h6 {
 }
 
 .summary {
-  font-size: 1.2rem;
-  line-height: 1.6rem;
   font-weight: lighter;
+  @media screen and (min-width: $tablet) {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+  }
+
+
 }
 
 p {
@@ -117,3 +126,31 @@ blockquote p {
   font-style: normal;
   font-size: 1.2rem !important;
 }
+
+.content {
+  h2 {
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+
+.slabtexted .slabtext
+    {
+    display: -moz-inline-box;
+    display: inline-block;
+    white-space: nowrap;
+    }
+.slabtextinactive .slabtext
+    {
+    display: inline;
+    white-space: normal;
+    font-size: 1em !important;
+    letter-spacing: inherit !important;
+    word-spacing: inherit !important;
+    *letter-spacing: normal !important;
+    *word-spacing: normal !important;
+    }
+.slabtextdone .slabtext
+    {
+    display: block;
+    }

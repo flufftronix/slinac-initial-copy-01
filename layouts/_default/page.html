@@ -14,8 +14,7 @@
                 </div>
               {{ end }}
 
-
-                <h1>{{ .Title }}</h1>
+                  <h1>{{ .Title }}</h1>
                 {{ if .Params.subtitle }}
                 <h3>{{ .Params.subtitle | safeHTML }}</h3>
                 {{ end }}
@@ -33,7 +32,8 @@
             {{ .Params.summary | markdownify }}
           </div>
         {{end}}
-
-        {{ .Content }}
+        <div class="content">
+          {{ .Content }}
+        </div>
     </section>
 {{ end }}

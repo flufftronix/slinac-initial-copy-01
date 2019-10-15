@@ -13,6 +13,7 @@ summary: Supervised consumption sites (SCS) are medical facilities where individ
 
 ---
 
+
 ## Overdose Deaths
 
 * Overdose prevention sites decrease overdose deaths [^1]
