@@ -26,6 +26,7 @@ summary: The Trump Administration has, so far, been [unsuccessful in using feder
           1. Contact Sen. Anthony Williams
         </label>
         <div class="tab-content">
+
 <p>
 Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' staff member Kyle Miller (if you're unable to call, Kyle can also be reached [via email](mailto:kyle.miller@pasenate.com)).
 </p><br><br>
@@ -48,6 +49,7 @@ Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' st
           2. Contact Your State Senator
         </label>
         <div class="tab-content">
+
 <p class="sectionheader">
 **Find your Senator:**
 </p>
@@ -76,6 +78,7 @@ Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' st
           3. Sign on to Support SCS!
         </label>
         <div class="tab-content">
+        
 <p>
 We need your help rallying support for safe consumption spaces! Sign on to this letter of support, and we'll be in touch with updates and action alerts. And if your organization, company, congregation, class, union, or any other group would like to officially sign on, please [get in touch](/contact/))!  
 </p>
