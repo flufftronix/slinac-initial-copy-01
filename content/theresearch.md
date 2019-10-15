@@ -9,7 +9,7 @@ menus:
 template: page
 image: https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg
 image_description: H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)
-summary: Supervised consumption sites (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site. <br><br>Thirty years of evidence show safe consumption spaces have decreased rates of overdose fatality, public injection, discarded needles, and contractions of HIV and Hepatitis C. Increases in crime have not been found, but increased participation in drug and alcohol treatment programs has. Below is a summary of the research on the above topics.<br><br>
+summary: Safe consumption spaces (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site. <br><br>Thirty years of evidence show safe consumption spaces have decreased rates of overdose fatality, public injection, discarded needles, and contractions of HIV and Hepatitis C. Increases in crime have not been found, but increased participation in drug and alcohol treatment programs has. Below is a summary of the research on the above topics.<br><br>
 
 ---
 
@@ -37,13 +37,13 @@ summary: Supervised consumption sites (SCS) are medical facilities where individ
 ## Treatment and Recovery
 
 * Various studies have shown that SCS increase the amount of users in detoxification and treatment programs because of effective case management and linkage to drug treatment programs [^10] [^11] [^12]
-* Over three years, an OPS in Canada helped get 67% of individuals using the site get into drug treatment services; 23% stopped injecting drugs [^12]
+* Over three years, an SCS in Canada helped get 67% of individuals using the site get into drug treatment services; 23% stopped injecting drugs [^12]
 
 ## Crime
 
-* All evidence suggests an OPS will not increase crime, drug trafficking, and the number of users in the neighborhood of the site [^1] [^13] [^14]
-* No increase in crime and drug trafficking occurred after an OPS opened in Vancouver, Canada [^13]
-* Researchers in Sydney, Australia monitored drug trafficking and the number of people using drugs around an OPS for 10 years and did not detect an increase in crime or the number of drug users in the area. [^14]
+* All evidence suggests an SCS will not increase crime, drug trafficking, and the number of users in the neighborhood of the site [^1] [^13] [^14]
+* No increase in crime and drug trafficking occurred after an SCS opened in Vancouver, Canada [^13]
+* Researchers in Sydney, Australia monitored drug trafficking and the number of people using drugs around an SCS for 10 years and did not detect an increase in crime or the number of drug users in the area. [^14]
 
 {{< youtube 7gIyBMt2BEk >}}<br><br>
 

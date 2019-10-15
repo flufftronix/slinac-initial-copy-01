@@ -10,7 +10,7 @@
 
               {{ if .Params.image }}
                 <div class="header_image">
-                  <img src="{{ $image }}" alt="{{ .Description }}">
+                  <img src="{{ $image }}" alt="{{ .Params.image_description }}" title="{{ .Params.image_description }}">
                 </div>
               {{ end }}
 

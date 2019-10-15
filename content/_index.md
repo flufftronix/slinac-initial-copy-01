@@ -1,6 +1,6 @@
 ---
 title: Support Safe Consumption Spaces in Pennsylvania
-subtitle: We're facing an unprecedented drug overdose crisis. Don't let your elected officials take strategies proven to work off the table!
+subtitle: We're up against an unprecedented drug overdose crisis. Don't let our elected officials take vital options off the table!
 layout: page
 enableInlineShortcodes: true
 menus:
@@ -26,11 +26,7 @@ summary: The Trump Administration has, so far, been [unsuccessful in using feder
           1. Contact Sen. Anthony Williams
         </label>
         <div class="tab-content">
-
-<p>
-Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' staff member Kyle Miller (if you're unable to call, Kyle can also be reached [via email](mailto:kyle.miller@pasenate.com)).
-</p><br><br>
-
+<p>Call <a href="tel:+17177875970">(717)787-5970</a> and ask to speak with Sen. Williams' staff member Kyle Miller (if you're unable to call, Kyle can also be reached <a href="mailto:kyle.miller@pasenate.com">via email</a>.</p><br>
 <p class="sectionheader">Sample Call:</p>
 
 >Hello, my name is *[name]* from *[your town of residence and your zip code]*. I am calling today because Pennsylvania is in the midst of a drug overdose epidemic. *[Share personal story if you want]*.
@@ -50,9 +46,7 @@ Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' st
         </label>
         <div class="tab-content">
 
-<p class="sectionheader">
-**Find your Senator:**
-</p>
+<p class="sectionheader">Find your Senator:</p>
 
 >  1. Visit PA's <a href="https://www.legis.state.pa.us/CFDOCS/LEGIS/HOME/FINDYOURLEGISLATOR/" target="blank_">*Find Your Legislator*</a> space.
 >  2. Type in your address
@@ -78,10 +72,8 @@ Call [(717) 787-5970](tel:+17177875970") and ask to speak with Sen. Williams' st
           3. Sign on to Support SCS!
         </label>
         <div class="tab-content">
-        
-<p>
-We need your help rallying support for safe consumption spaces! Sign on to this letter of support, and we'll be in touch with updates and action alerts. And if your organization, company, congregation, class, union, or any other group would like to officially sign on, please [get in touch](/contact/))!  
-</p>
+
+<p>We need your help rallying support for safe consumption spaces! Sign on to this letter of support, and we'll be in touch with updates and action alerts. And if your organization, company, congregation, class, union, or any other group would like to officially sign on, please <a href="/contact">get in touch</a>!</p>
 
 >Pennsylvania is in the midst of a drug overdose epidemic. On average, one person dies every 120 minutes due to drug overdoses in PA. Our current approaches are falling short. As individuals and organizations, we see safe consumption spaces (SCS) as a vital, evidence-based tool in reducing drug overdose deaths.
 

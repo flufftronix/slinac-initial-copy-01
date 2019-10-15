@@ -1,6 +1,9 @@
 // General
 .tabs {
   overflow: hidden;
+  border-top: 4px solid $black;
+  border-left: 4px solid $black;
+  border-right: 4px solid $black;
   input.tabber {
     position: absolute;
     opacity: 0;
@@ -47,12 +50,14 @@
     display: flex;
     justify-content: space-between;
     padding: 1em;
-    background: $darkblue;
+    background: $blue;
     font-weight: bold;
+    outline: 4px solid $black;
+    margin: -4px 0 4px 0;
     cursor: pointer;
     /* Icon */
     &:hover {
-      background: darken($blue, 10%);
+      background: lighten($blue, 10%);
     }
     &::after {
       content: "\276F";
@@ -66,7 +71,7 @@
     max-height: 0;
     padding: 0 1em;
     color: $black;
-    background: rgba(25,96,151,.4);
+    background: $transparentblue;
     transition: all .35s;
   }
   &-close {
@@ -77,7 +82,7 @@
     background: $blue;
     cursor: pointer;
     &:hover {
-      background: darken($blue, 10%);
+      background: lighten($blue, 10%);
     }
   }
 }
@@ -85,7 +90,7 @@
 // :checked
 input:checked {
   + .tab-label {
-    background: darken($blue, 10%);
+    background: lighten($blue, 10%);
     &::after {
       transform: rotate(90deg);
     }
@@ -93,5 +98,6 @@ input:checked {
   ~ .tab-content {
     max-height: 1000vh;
     padding: 1em;
+    border-bottom: 4px solid $black;
   }
 }

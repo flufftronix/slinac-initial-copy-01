@@ -436,8 +436,8 @@ h6 {
 
 h1 {
   color: #000;
-  font-size: 2rem;
-  line-height: 3rem;
+  font-size: 2.2rem;
+  line-height: 2.8rem;
   text-transform: uppercase; }
   @media screen and (max-width: 768px) {
     h1 {
@@ -544,7 +544,7 @@ button,
 .text-link {
   color: inherit;
   text-decoration: underline 2px solid;
-  text-decoration-color: #2F6EA1;
+  text-decoration-color: rgba(25, 96, 151, 0.3);
   text-decoration-skip: ink;
   outline: none;
   box-shadow: none;
@@ -607,7 +607,7 @@ button,
   min-height: 5rem;
   justify-content: space-between;
   align-items: stretch;
-  border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 4px solid black;
   margin-bottom: 2.5rem; }
   .header .logo {
     color: black;
@@ -642,13 +642,13 @@ button,
         flex: 1 0; } }
     .header .nav-link.active:after {
       content: ' ';
-      height: 2px;
+      height: 4px;
       width: 100%;
-      background: #2F6EA1;
+      background: #d5c8e8;
       border: none;
       position: absolute;
       left: 0;
-      bottom: -2px; }
+      bottom: -4px; }
 
 .post .hero {
   margin-bottom: 0; }
@@ -658,7 +658,7 @@ button,
 .hero {
   width: 100%;
   align-items: center;
-  margin: 0 0 1rem; }
+  margin: -2.55rem 0 1rem; }
   @media screen and (max-width: 768px) {
     .hero {
       flex-direction: column;
@@ -667,6 +667,9 @@ button,
     width: 100%;
     margin: 0;
     border-radius: 0;
+    border-bottom: 4px solid #000;
+    border-left: 4px solid #000;
+    border-right: 4px solid #000;
     margin: 0 auto .5rem; }
     @media screen and (max-width: 768px) {
       .hero img {
@@ -793,7 +796,10 @@ body.has-theme-bar .wrapper {
     text-decoration: none; }
 
 .tabs {
-  overflow: hidden; }
+  overflow: hidden;
+  border-top: 4px solid #000;
+  border-left: 4px solid #000;
+  border-right: 4px solid #000; }
   .tabs input.tabber {
     position: absolute;
     opacity: 0;
@@ -830,12 +836,14 @@ body.has-theme-bar .wrapper {
     display: flex;
     justify-content: space-between;
     padding: 1em;
-    background: #134663;
+    background: #2F6EA1;
     font-weight: bold;
+    outline: 4px solid #000;
+    margin: -4px 0 4px 0;
     cursor: pointer;
     /* Icon */ }
     .tab-label:hover {
-      background: #23537a; }
+      background: #3d89c6; }
     .tab-label::after {
       content: "\276F";
       width: 1em;
@@ -846,7 +854,7 @@ body.has-theme-bar .wrapper {
     max-height: 0;
     padding: 0 1em;
     color: #000;
-    background: rgba(25, 96, 151, 0.4);
+    background: rgba(25, 96, 151, 0.3);
     transition: all .35s; }
   .tab-close {
     display: flex;
@@ -856,16 +864,17 @@ body.has-theme-bar .wrapper {
     background: #2F6EA1;
     cursor: pointer; }
     .tab-close:hover {
-      background: #23537a; }
+      background: #3d89c6; }
 
 input:checked + .tab-label {
-  background: #23537a; }
+  background: #3d89c6; }
   input:checked + .tab-label::after {
     transform: rotate(90deg); }
 
 input:checked ~ .tab-content {
   max-height: 1000vh;
-  padding: 1em; }
+  padding: 1em;
+  border-bottom: 4px solid #000; }
 
 /* MailChimp Form Embed Code - Classic - 12/17/2015 v10.7 */
 #mc_embed_signup form {
