@@ -650,6 +650,11 @@ button,
       left: 0;
       bottom: -4px; }
 
+.header_noimage {
+  margin: 4rem 0; }
+  .header_noimage h1 {
+    margin-bottom: 2em; }
+
 .post .hero {
   margin-bottom: 0; }
   .post .hero img {
@@ -1067,3 +1072,16 @@ input:checked ~ .tab-content {
 
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {
   border: 2px solid #e85c41; }
+
+#contactform {
+  width: 100%;
+  background: rgba(25, 96, 151, 0.3);
+  border-radius: .5rem;
+  padding: 1rem 0 1rem 1rem; }
+  #contactform input, #contactform textarea {
+    width: 95%;
+    margin: .5rem auto 1rem auto; }
+  #contactform textarea {
+    height: 10rem; }
+  #contactform .inputname {
+    margin: 0; }

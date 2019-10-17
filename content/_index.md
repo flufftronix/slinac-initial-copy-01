@@ -10,7 +10,7 @@ menus:
 template: page
 toc: no
 image: /images/safehouse-rally1.jpg
-image_description: Safe Consumption Supporters rally outside federal court in Philadelphia
+image_description: Safe Consumption Supporters rally outside federal court in Philadelphia. Photo by Holden Blanco.
 summary: The Trump Administration has, so far, been [unsuccessful in using federal law to block Safe Consumption Spaces \(SCS\) in Philadelphia](https://www.nytimes.com/2019/10/02/us/injection-safehouse-philadelphia-ruling.html). But now a PA Senator [wants to pass a statewide ban](https://www.legis.state.pa.us/cfdocs/legis/CSM/showMemoPublic.cfm?chamber=S&SPick=20190&cosponId=30461&mobile_choice=suppress).<br><br>Communities ready to use SCS as a proven tool for [curbing the drug overdose crisis](/the-research) deserve empowerment, not restrictions. Act now to defend safe and supervised consumption--saving lives is not a crime!
 ---
 

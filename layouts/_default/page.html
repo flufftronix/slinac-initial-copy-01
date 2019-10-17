@@ -11,10 +11,14 @@
               {{ if .Params.image }}
                 <div class="header_image">
                   <img src="{{ $image }}" alt="{{ .Params.image_description }}" title="{{ .Params.image_description }}">
-                </div>
-              {{ end }}
-
+                <h1>{{ .Title }}</h1>
+              </div>
+              {{ else }}
+              <div class="header_noimage">
                   <h1>{{ .Title }}</h1>
+                </div>
+                  {{ end }}
+
                 {{ if .Params.subtitle }}
                 <h3>{{ .Params.subtitle | safeHTML }}</h3>
                 {{ end }}

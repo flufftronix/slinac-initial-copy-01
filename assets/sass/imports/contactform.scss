@@ -1,0 +1,16 @@
+#contactform {
+  width: 100%;
+  background: $transparentblue;
+  border-radius: .5rem;
+  padding: 1rem 0 1rem 1rem;
+  input, textarea {
+  width: 95%;
+  margin: .5rem auto 1rem auto;
+  }
+  textarea {
+      height: 10rem;
+    }
+  .inputname {
+    margin: 0;
+  }
+}
