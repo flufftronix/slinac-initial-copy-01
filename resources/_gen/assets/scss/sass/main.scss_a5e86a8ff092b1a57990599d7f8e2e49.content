@@ -663,6 +663,7 @@ button,
 .hero {
   width: 100%;
   align-items: center;
+  max-width: 100%;
   margin: -2.55rem 0 1rem; }
   @media screen and (max-width: 768px) {
     .hero {
@@ -1079,9 +1080,13 @@ input:checked ~ .tab-content {
   border-radius: .5rem;
   padding: 1rem 0 1rem 1rem; }
   #contactform input, #contactform textarea {
-    width: 95%;
-    margin: .5rem auto 1rem auto; }
+    margin: .5rem auto 1rem auto;
+    width: 50%; }
   #contactform textarea {
+    width: 95%;
     height: 10rem; }
   #contactform .inputname {
     margin: 0; }
+  #contactform button {
+    padding: 1rem;
+    background: white; }
