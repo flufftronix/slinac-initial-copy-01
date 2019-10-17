@@ -537,6 +537,7 @@ blockquote p {
   *word-spacing: normal !important; }
 
 .slabtextdone .slabtext {
+  max-width: 100%;
   display: block; }
 
 a,
