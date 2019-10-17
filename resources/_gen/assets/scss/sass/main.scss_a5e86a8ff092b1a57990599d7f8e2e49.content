@@ -481,6 +481,7 @@ h6 {
   color: #61439A; }
 
 .summary {
+  text-align: left;
   font-weight: lighter; }
   @media screen and (min-width: 768px) {
     .summary {
