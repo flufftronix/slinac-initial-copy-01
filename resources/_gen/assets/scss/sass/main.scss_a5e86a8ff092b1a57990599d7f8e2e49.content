@@ -663,7 +663,6 @@ button,
 .hero {
   width: 100%;
   align-items: center;
-  max-width: 100%;
   margin: -2.55rem 0 1rem; }
   @media screen and (max-width: 768px) {
     .hero {
@@ -683,7 +682,8 @@ button,
         width: 100%;
         border-radius: 0; } }
   .hero h1, .hero h2, .hero h3, .hero h4, .hero h5, .hero h6 {
-    font-weight: 300; }
+    font-weight: 300;
+    max-width: 100%; }
   .hero .copy {
     text-align: left;
     margin: 0; }
