@@ -167,8 +167,8 @@
 
                     if(settings.postTweak) {
                         $span.css({
-                            "word-spacing":0,
-                            "letter-spacing":0
+//                          "word-spacing":0,
+//                            "letter-spacing":0
                         });
                     };
 
@@ -200,20 +200,16 @@
 
             // Immediate resize
             resizeSlabs();
+            clearTimeout(resizeThrottle);
+            resizeThrottle = setTimeout(resizeSlabs, settings.resizeThrottleTime);
+
 
             if(!settings.noResizeEvent) {
                 $(window).resize(function() {
-                    // Only run the resize code if the viewport width has changed.
-                    // we ignore the viewport height as it will be constantly changing.
-                    if($(window).width() == viewportWidth) {
-                        return;
-                    };
-
-                    viewportWidth = $(window).width();
-
                     clearTimeout(resizeThrottle);
                     resizeThrottle = setTimeout(resizeSlabs, settings.resizeThrottleTime);
                 });
+
             };
         });
     };

@@ -13,10 +13,17 @@
 <script src="{{ "assets/js/main.js" | relURL }}"></script>
 
 <script>
-// $(document).ready(function(){
-//  $('h1').slabText({
-//    viewportBreakpoint: 300,
-//    postTweak: true
-//  });
-// });
+
+  function slabTextHeadlines() {
+    $("h1").slabText({
+        // Don't slabtext the headers if the viewport is under 380px
+        "viewportBreakpoint":200,
+        fontRatio:.81,
+        minCharsPerLine:1,
+        postTweak:true
+    });
+};
+
+slabTextHeadlines();
+
 </script>

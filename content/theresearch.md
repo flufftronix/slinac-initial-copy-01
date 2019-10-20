@@ -1,6 +1,6 @@
 ---
 title: The Research on Safe Consumption Spaces
-subtitle:
+subtitle: Safe consumption spaces (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site.
 layout: page
 menus:
   main:
@@ -9,10 +9,10 @@ menus:
 template: page
 image: https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg
 image_description: H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)
-summary: Safe consumption spaces (SCS) are medical facilities where individuals can use drugs under medical supervision. They are an evidence-based solution to decrease deaths due to drug overdoses, public injection, and discarded needles. Over 100 SCS exist in 12 different countries and there have been no deaths on site. <br><br>Thirty years of evidence show safe consumption spaces have decreased rates of overdose fatality, public injection, discarded needles, and contractions of HIV and Hepatitis C. Increases in crime have not been found, but increased participation in drug and alcohol treatment programs has. Below is a summary of the research on the above topics.<br><br>
+summary: Thirty years of evidence show safe consumption spaces have decreased rates of overdose fatality, public injection, discarded needles, and contractions of HIV and Hepatitis C. Increases in crime have not been found, but increased participation in drug and alcohol treatment programs has. Below is a summary of the research on the above topics.
 
 ---
-
+---
 
 ## Overdose Deaths
 
