@@ -47,33 +47,33 @@ summary: Thirty years of evidence show safe consumption spaces have decreased ra
 
 {{< youtube 7gIyBMt2BEk >}}<br><br>
 
-[^1]: Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: what has been demonstrated? A systematic literature review. *Drug and alcohol dependence*, *145*, 48–68.
+[^1]: Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). [Supervised injection services: what has been demonstrated? A systematic literature review.](https://www.ncbi.nlm.nih.gov/pubmed/25456324) *Drug and alcohol dependence*, *145*, 48–68.
 
-[^2]: Marshall, B. D., Milloy, M. J., Wood, E., Montaner, J. S., & Kerr, T. (2011). Reduction in overdose mortality after the opening of North America’s first medically supervised safer injecting facility: a retrospective population-based study. *The Lancet*, *377*(9775), 1429–1437.
+[^2]: Marshall, B. D., Milloy, M. J., Wood, E., Montaner, J. S., & Kerr, T. (2011). [Reduction in overdose mortality after the opening of North America’s first medically supervised safer injecting facility: a retrospective population-based study.](https://www.ncbi.nlm.nih.gov/pubmed/21497898) *The Lancet*, *377*(9775), 1429–1437.
 
-[^3]: Salmon, A. M., Van Beek, I., Amin, J., Kaldor, J., & Maher, L. (2010). The impact of a supervised injecting facility on ambulance call‐outs in Sydney, Australia. *Addiction*, *105*(4), 676–683.
+[^3]: Salmon, A. M., Van Beek, I., Amin, J., Kaldor, J., & Maher, L. (2010). [The impact of a supervised injecting facility on ambulance call‐outs in Sydney, Australia.](https://www.ncbi.nlm.nih.gov/pubmed/20148794) *Addiction*, *105*(4), 676–683.
 
-[^4]: Wood, E., Kerr, T., Small, W., Li, K., Marsh, D. C., Montaner, J. S., & Tyndall, M. W. (2004). Changes in public order after the opening of a medically supervised safer injecting facility for illicit injection drug users. *Cmaj*, *171*(7), 731–734.
+[^4]: Wood, E., Kerr, T., Small, W., Li, K., Marsh, D. C., Montaner, J. S., & Tyndall, M. W. (2004). [Changes in public order after the opening of a medically supervised safer injecting facility for illicit injection drug users.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC517857/) *Cmaj*, *171*(7), 731–734.
 
-[^5]: Salmon, A. M., Thein, H. H., Kimber, J., Kaldor, J. M., & Maher, L. (2007). Five years on: What are the community perceptions of drug-related public amenity following the establishment of the Sydney Medically Supervised Injecting Centre?. *International Journal of Drug Policy*, *18*(1), 46–53.
+[^5]: Salmon, A. M., Thein, H. H., Kimber, J., Kaldor, J. M., & Maher, L. (2007). [Five years on: What are the community perceptions of drug-related public amenity following the establishment of the Sydney Medically Supervised Injecting Centre?.](https://www.ncbi.nlm.nih.gov/pubmed/17689343) *International Journal of Drug Policy*, *18*(1), 46–53.
 
-[^6]: Petrar, S., Kerr, T., Tyndall, M. W., Zhang, R., Montaner, J. S., & Wood, E. (2007). Injection drug users’ perceptions regarding use of a medically supervised safer injecting facility. *Addictive behaviors*, *32*(5), 1088–1093.
+[^6]: Petrar, S., Kerr, T., Tyndall, M. W., Zhang, R., Montaner, J. S., & Wood, E. (2007). [Injection drug users’ perceptions regarding use of a medically supervised safer injecting facility.](https://www.ncbi.nlm.nih.gov/pubmed/16930849) *Addictive behaviors*, *32*(5), 1088–1093.
 
-[^7]: Pinkerton, S. D. (2011). How many HIV infections are prevented by Vancouver Canada’s supervised injection facility?. *International Journal of Drug Policy*, *22*(3), 179–183.
+[^7]: Pinkerton, S. D. (2011). [How many HIV infections are prevented by Vancouver Canada’s supervised injection facility?.](https://www.ncbi.nlm.nih.gov/pubmed/21450450) *International Journal of Drug Policy*, *22*(3), 179–183.
 
-[^8]: Small, W., Wood, E., Lloyd-Smith, E., Tyndall, M., & Kerr, T. (2008). Accessing care for injection-related infections through a medically supervised injecting facility: a qualitative study. *Drug and Alcohol Dependence*, *98*(1–2), 159–162.
+[^8]: Small, W., Wood, E., Lloyd-Smith, E., Tyndall, M., & Kerr, T. (2008). [Accessing care for injection-related infections through a medically supervised injecting facility: a qualitative study.](https://www.ncbi.nlm.nih.gov/pubmed/18650034) *Drug and Alcohol Dependence*, *98*(1–2), 159–162.
 
-[^9]: Lloyd-Smith, E., Wood, E., Zhang, R., Tyndall, M. W., Sheps, S., Montaner, J. S., & Kerr, T. (2010). Determinants of hospitalization for a cutaneous injection-related infection among injection drug users: a cohort study. *BMC Public Health*, *10*(1), 327.
+[^9]: Lloyd-Smith, E., Wood, E., Zhang, R., Tyndall, M. W., Sheps, S., Montaner, J. S., & Kerr, T. (2010). [Determinants of hospitalization for a cutaneous injection-related infection among injection drug users: a cohort study.](https://www.ncbi.nlm.nih.gov/pubmed/20534148) *BMC Public Health*, *10*(1), 327.
 
-[^10]: Tyndall, M. W., Kerr, T., Zhang, R., King, E., Montaner, J. G., & Wood, E. (2006). Attendance, drug use patterns, and referrals made from North America’s first supervised injection facility. *Drug and alcohol dependence*, *83*(3), 193–198.
+[^10]: Tyndall, M. W., Kerr, T., Zhang, R., King, E., Montaner, J. G., & Wood, E. (2006). [Attendance, drug use patterns, and referrals made from North America’s first supervised injection facility.](https://www.ncbi.nlm.nih.gov/pubmed/16356659) *Drug and alcohol dependence*, *83*(3), 193–198.
 
-[^11]: Wood, E., Tyndall, M. W., Zhang, R., Montaner, J. S., & Kerr, T. (2007). Rate of detoxification service use and its impact among a cohort of supervised injecting facility users. *Addiction*, *102*(6), 916–919.
+[^11]: Wood, E., Tyndall, M. W., Zhang, R., Montaner, J. S., & Kerr, T. (2007). [Rate of detoxification service use and its impact among a cohort of supervised injecting facility users.](https://www.ncbi.nlm.nih.gov/pubmed/17523986) *Addiction*, *102*(6), 916–919.
 
-[^12]: DeBeck, K., Kerr, T., Bird, L., Zhang, R., Marsh, D., Tyndall, M., … & Wood, E. (2011). Injection drug use cessation and use of North America’s first medically supervised safer injecting facility. *Drug and alcohol dependence*, *113*(2–3), 172–176.
+[^12]: DeBeck, K., Kerr, T., Bird, L., Zhang, R., Marsh, D., Tyndall, M., … & Wood, E. (2011). [Injection drug use cessation and use of North America’s first medically supervised safer injecting facility.](https://www.ncbi.nlm.nih.gov/pubmed/20800976) *Drug and alcohol dependence*, *113*(2–3), 172–176.
 
-[^13]: Wood, E., Tyndall, M. W., Lai, C., Montaner, J. S., & Kerr, T. (2006). Impact of a medically supervised safer injecting facility on drug dealing and other drug-related crime. *Substance abuse treatment, prevention, and policy*, *1*(1), 13.
+[^13]: Wood, E., Tyndall, M. W., Lai, C., Montaner, J. S., & Kerr, T. (2006). [Impact of a medically supervised safer injecting facility on drug dealing and other drug-related crime.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1471778/) *Substance abuse treatment, prevention, and policy*, *1*(1), 13.
 
-[^14]: Donnelly, N., & Mahoney, N. (2013). Trends in property and illicit drug crime around the Medically Supervised Injecting Centre in Kings Cross: 2012 update. *NSW Bureau of Crime Statistics and Research*, *90*, 1–10.
+[^14]: Donnelly, N., & Mahoney, N. (2013). [Trends in property and illicit drug crime around the Medically Supervised Injecting Centre in Kings Cross: 2012 update.](https://www.bocsar.nsw.gov.au/Documents/BB/bb90.pdf) *NSW Bureau of Crime Statistics and Research*, *90*, 1–10.
 
  ![Sydney Medically Supervised Injecting Centre, Sydney Australia (Nigel Brunsdon, Filter Mag)](https://cdn-images-1.medium.com/max/2000/1*kIbtlSgd6KMLgNEOm4t3FA.jpeg)
 
