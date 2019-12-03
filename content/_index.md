@@ -1,6 +1,6 @@
 ---
 title: Take Action and Help Deliver The Golden Urn Award and Funeral Wreath to William McSwain
-subtitle: Last year, 4,491 lives were lost to accidental overdose across PA. Extremely potent opioids like fentanyl caused most of these overdoses and can be found in drugs sold as powder cocaine, crack cocaine, heroin, methamphetamine, K2 and Percocet.
+subtitle: Last year, 4,491 lives were lost to accidental overdose across PA. Extremely potent opioids like fentanyl caused most of these overdoses and can be found in drugs sold as powder cocaine, crack cocaine, heroin, methamphetamine, K2 and percocet.
 layout: page
 menus:
   main:
