@@ -7,7 +7,7 @@ enableInlineShortcodes: true
 menus:
   main:
     title: Contact
-    weight: 10
+    weight: 4
 template: page
 toc: no
 

@@ -4,8 +4,8 @@ subtitle: Safe consumption spaces (SCS) are medical facilities where individuals
 layout: page
 menus:
   main:
-    title: The Research
-    weight: 4
+    title: Research
+    weight: 3
 template: page
 image: https://cdn-images-1.medium.com/max/4000/1*e3PpOZpJlRdtX-dDT7KPQw.jpeg
 image_description: H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)
