@@ -8,7 +8,7 @@ menus:
     weight: 1
 template: page
 image: /images/safe-consumption-now.jpg
-image_description: H17 Supervised Consumption Site, Copenhagen Denmark (*Kasper L*ø*ftgaard, Vice)
+image_description: Safe Consumption Supporters rally outside federal court in Philadelphia. Photo by Holden Blanco.
 summary: A Safe Consumption facility was ruled legal on October 2nd, 2019 by a federal judge. Trump appointee attorney William McSwain lost his bid to have safe consumption spaces declared illegal. But despite losing this major court battle, he still vows to arrest anyone in his jurisdiction using a safe consumption space.
 
 ---
