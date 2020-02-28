@@ -5,7 +5,7 @@ layout: page
 enableInlineShortcodes: true
 menus:
   main:
-    title: SB933
+    title: Stop SB933!
     weight: 2
 template: page
 toc: no
